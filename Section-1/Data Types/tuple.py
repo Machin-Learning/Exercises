@@ -56,3 +56,15 @@ print(tu+tu_mixed)
 
 print(tu*2)
 
+#How to change data of tuple
+
+#step1: convert the tuple to list i.e type casting
+ta = (1,2,3,4,5,6)
+
+la = list(ta)
+#change the list element
+la[3]=9
+#convert back to tuple
+ta_change = tuple(la)
+
+print(ta_change)
