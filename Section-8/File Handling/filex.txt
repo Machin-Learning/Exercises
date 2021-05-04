@@ -1,0 +1,3 @@
+This is the file written by cat command
+second row code
+The new line appended by append modeThe new line appended by append mode
