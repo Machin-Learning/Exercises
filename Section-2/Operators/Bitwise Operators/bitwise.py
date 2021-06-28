@@ -18,8 +18,8 @@ print(12^2) #1100^0010=1110=14
 
 # 4. NOT(~) operator
 # inverts all the bits
-print(~11) #~1011 
-print(~10) #~1010 
+print(~11) #~1011
+print(~10) #~1010
 
 # 5. Left Shift (<<) operator
 # move the left oprand's values to the left by the number of bits specified by the right oprand!
